@@ -1,4 +1,4 @@
-@Library('mylibrary@master')
+@Library('mylibrary@master') _
 node
 {
   myfirstcode("test")
